@@ -18,9 +18,9 @@ a:visited {
   text-decoration: none;
 }
 .top-nav {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   background-color: rgba(255, 255, 255, 0.1);
-  padding: 20px 0;
+  padding: 10px 0;
 }
 .top-nav a {
   color: #fff;
